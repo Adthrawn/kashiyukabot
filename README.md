@@ -10,7 +10,7 @@ You will need the following details for the Twitter API
  - accessTokenSecret
 
 There are two other configs
- - image_dir - path to where the images are stored
+ - image_dir - path to where the images are stored ex: '/home/user/pictures/'
  - hastags - the hashtags to include with the post
 
 At the moment, you should only need the following python libraries. Install these via pip
