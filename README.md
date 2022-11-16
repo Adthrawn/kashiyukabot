@@ -13,12 +13,11 @@ There are two other configs
  - image_dir - path to where the images are stored
  - hastags - the hashtags to include with the post
 
-At the moment, you should only need the following python libraries
+At the moment, you should only need the following python libraries. Install these via pip
 
  - oauthlib
  - requests
  - requests-oauthlib
  - configparser
- - python3-magic
 
 You run the script by executing the main.py file
