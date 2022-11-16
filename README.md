@@ -20,3 +20,5 @@ At the moment, you should only need the following python libraries
  - requests-oauthlib
  - configparser
  - python3-magic
+
+You run the script by executing the main.py file
